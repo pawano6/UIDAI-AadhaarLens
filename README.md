@@ -508,19 +508,9 @@ District personas can provide an additional planning layer beyond simple state o
 ```text
 UIDAI-AadhaarLens/
 │
-├── UIDAI_Analysis.ipynb
+├── UIDAI_AadharLens_Analysis.ipynb
 ├── UIDAI.csv
 ├── UIDAI_AadhaarLens_Final_Report.pdf
 ├── README.md
 ├── requirements.txt
 └── .gitignore.ipynb
-├── UIDAI.csv
-├── UIDAI_AadhaarLens_Final_Report.pdf
-├── README.md
-├── requirements.txt
-└── .gitignore.ipynb
-├── UIDAI.csv
-├── UIDAI_AadhaarLens_Final_Report.pdf
-├── README.md
-├── requirements.txt
-└── .gitignore
